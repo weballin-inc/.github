@@ -17,8 +17,8 @@
    - Label: Zajęcia np. `Programowanie Obiektowe`
    - Issue type: `Uni-Project` (w przypadku podania `Task`, item ten nie pokaże sie na tablicy)
    - W szczegółach itemu > Projects ustaw Priority, Target Date i Start Date wedle uznania. 
-     <img width="403" height="346" alt="image" src="https://github.com/user-attachments/assets/44b67fc7-5e07-4baa-b4aa-802b1f315c51" />
-     <img width="320" height="236" alt="image" src="https://github.com/user-attachments/assets/3e59313b-15c7-4707-8022-7bac317f8be7" />
+     <img width="403" height="346" alt="image" src="https://github.com/user-attachments/assets/a759b9ee-39d6-45fe-95d8-ca61a66b80f7" />
+     <img width="320" height="236" alt="image" src="https://github.com/user-attachments/assets/3652a506-7eb8-481e-8dff-10477a848e71" />
 4. W czasie realizacji projektu aktualizuj work item na tablicy, umieszczając go w odpowiednich kolumnach:
    - **Chłodnia** - _Backlog_ dla wszystkich projektów zaplanowanych, gdzie sprawa nie jest pilna.
    - **Obrane** - _To Do_, gdzie znajdują się projekty do realizacji.
