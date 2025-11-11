@@ -26,7 +26,7 @@
    - **Podawanie** - Kontener na wszystkie ukończone projekty, ale potrzebujące ostatnich szlifów przed oddaniem.
    - **Wydane** - Projekty wysłane do wykładowcy, oczekujące na ocenę.
    - **Zjedzone** - Projekty które zostały ocenione, sprawa zamknięta.
-5. W przypadku zmiany repozytorium, można użyć akcji `Transfer Issue` aby przenieść work item do docelowego repo.
+5. W przypadku zmiany repozytorium, można użyć akcji `Transfer Issue` aby przenieść work item do docelowego repo. Ale można w sumie tworzyć Project itemy na repo `.github`
   
 ## Repozytoria
 Repozytoria z projektami można utworzyć na dwa sposoby
